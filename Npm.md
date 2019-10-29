@@ -5,3 +5,5 @@
 |vue init webpack projectName|创建Vue项目|
 |npm run dev|运行项目|
 |npm install name --save|通过框架名称引入相应依赖|
+|npm audit|查看漏洞详情|
+|npm audit fix|进行漏洞修复|
