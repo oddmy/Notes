@@ -7,5 +7,9 @@
 |[attribute^=val]|属性指定特定的值开头选择器|例：$("div[id^='main']")|
 |[attribute$=val]|属性指定特定的值结尾选择器|例：$("div[id$='main']")|
 |[attribute*=val]|属性包含指定特定的值选择器|例：$("div[id*='main']")|
-|(div:first)|选取第一个div|例：$("div:first")|
+
+# CSS选择器
+|函数|说明|备注|
+|----|----|----|
+|div:first-child|获得第一个标签|例：div.text:first-child|
 
